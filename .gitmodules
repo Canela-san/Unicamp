@@ -1,0 +1,9 @@
+[submodule "MC102"]
+	path = MC102
+	url = https://github.com/Canela-san/MC102.git
+[submodule "MC202"]
+	path = MC202
+	url = https://github.com/Canela-san/MC202.git
+[submodule "MC322"]
+	path = MC322
+	url = https://github.com/Canela-san/MC322.git
