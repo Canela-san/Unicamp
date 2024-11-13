@@ -7,3 +7,6 @@
 [submodule "MC322"]
 	path = MC322
 	url = https://github.com/Canela-san/MC322.git
+[submodule "MC404"]
+	path = MC404
+	url = https://github.com/Canela-san/MC404.git
